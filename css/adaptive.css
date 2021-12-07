@@ -94,6 +94,8 @@
     }
     .hidebar {
         width: 0%;
+        padding: 0;
+        margin: 0;
     }
     .nomer{
         width: 100%;
@@ -114,6 +116,7 @@
     .tletex {
         font-size: 9px;
         padding: 0;
+        margin: 0;
     }
 
     .leftbar {
@@ -127,13 +130,14 @@
         margin-left: auto;
         margin-right: auto;
         height: 440px;
-        padding: 5px 0px;
+        padding: 0px 0px;
     }
 
     .content {
         width: 100%;
         float: none;
         font-size: 13px;
+        text-align: center;
     }
 
     .lifeislove {
